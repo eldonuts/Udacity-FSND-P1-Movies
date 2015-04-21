@@ -11,12 +11,12 @@ This project was created as part of the Udacity Full Stack Web Developer Nanodeg
 
 #### What does each file do
 
-**entertainment_center.py:** The main script where everything starts, this uses **media.py** to create instances of each movie, then calls **generate_html.py** to make the html page.
-**media.py:** This is where the magic really happens, it contains the class **Movie** which is used to store all the important data like movie info and trailer path.
-**generate_html.py:** This is where the html page is created, it uses styles from **style.css** and html within, to generate the page using the **Movie** instances called from **entertainment_center.py**.
-**style.css:** This is where the css style for the page is kept.
+* **entertainment_center.py:** The main script where everything starts, this uses **media.py** to create instances of each movie, then calls **generate_html.py** to make the html page.
+* **media.py:** This is where the magic really happens, it contains the class **Movie** which is used to store all the important data like movie info and trailer path.
+* **generate_html.py:** This is where the html page is created, it uses styles from **style.css** and html within, to generate the page using the **Movie** instances called from **entertainment_center.py**.
+* **style.css:** This is where the css style for the page is kept.
 
 #### APIs used
 
-[OMDB](http://www.omdbapi.com)
-[Youtube API v2](https://developers.google.com/youtube/2.0/developers_guide_protocol)
+*[OMDB](http://www.omdbapi.com)
+*[Youtube API v2](https://developers.google.com/youtube/2.0/developers_guide_protocol)
