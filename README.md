@@ -18,5 +18,5 @@ This project was created as part of the Udacity Full Stack Web Developer Nanodeg
 
 #### APIs used
 
-*[OMDB](http://www.omdbapi.com)
-*[Youtube API v2](https://developers.google.com/youtube/2.0/developers_guide_protocol)
+* [OMDB](http://www.omdbapi.com)
+* [Youtube API v2](https://developers.google.com/youtube/2.0/developers_guide_protocol)
